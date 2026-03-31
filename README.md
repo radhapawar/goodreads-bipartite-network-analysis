@@ -1,4 +1,4 @@
-# Social Media Analytics — Assignment 2: Bipartite Network Analysis
+# Social Media Analytics: Assignment 2: Bipartite Network Analysis
 
 **Course:** MSBA Social Media Analytics (Spring 2026)
 
@@ -15,8 +15,8 @@ This project analyzes a Goodreads book review dataset by constructing and analyz
 ## Dataset
 
 `goodreads_data.csv` contains scraped Goodreads review data with the following key fields:
-- `book_title` — title of the reviewed book
-- `reviewer_id` — unique identifier for the reviewer
+- `book_title` - title of the reviewed book
+- `reviewer_id` - unique identifier for the reviewer
 - Additional review metadata (ratings, text, etc.)
 
 ## Files
