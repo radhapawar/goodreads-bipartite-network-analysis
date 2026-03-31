@@ -1,4 +1,4 @@
-# Social Media Analytics: Assignment 2: Bipartite Network Analysis
+# Social Media Analytics: Bipartite Network Analysis
 
 **Course:** MSBA Social Media Analytics (Spring 2026)
 
